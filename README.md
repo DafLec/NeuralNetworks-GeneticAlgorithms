@@ -27,10 +27,10 @@ Para esto es necesario:
 7. ...Continuar con el algoritmo genético  
 
 ## Referencias
-..* https://www.mathworks.com/help/gads/what-is-the-genetic-algorithm.html  
-..* https://www.youtube.com/watch?v=rGWBo0JGf50  
-..* https://towardsdatascience.com/gas-and-nns-6a41f1e8146d  
-..* https://static1.squarespace.com/static/58e2a71bf7e0ab3ba886cea3/t/5909113c1b631b40f8137956/1493766462349/1989+neural+networks.pdf  
-..* https://blog.coast.ai/lets-evolve-a-neural-network-with-a-genetic-algorithm-code-included-8809bece164  
-..* https://towardsdatascience.com/what-are-hyperparameters-and-how-to-tune-the-hyperparameters-in-a-deep-neural-network-d0604917584a  
+* https://www.mathworks.com/help/gads/what-is-the-genetic-algorithm.html  
+* https://www.youtube.com/watch?v=rGWBo0JGf50  
+* https://towardsdatascience.com/gas-and-nns-6a41f1e8146d  
+* https://static1.squarespace.com/static/58e2a71bf7e0ab3ba886cea3/t/5909113c1b631b40f8137956/1493766462349/1989+neural+networks.pdf  
+* https://blog.coast.ai/lets-evolve-a-neural-network-with-a-genetic-algorithm-code-included-8809bece164  
+* https://towardsdatascience.com/what-are-hyperparameters-and-how-to-tune-the-hyperparameters-in-a-deep-neural-network-d0604917584a  
 
