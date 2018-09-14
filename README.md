@@ -13,7 +13,7 @@ El proceso de selección se puede hacer de dos formas: **al azar o con base en l
 La reproducción consiste en **mezclar los genes de los dos padres** para formar a un nuevo individuo para la siguiente generación.
 Finalmente, la mutación es **cambiar, aleatoriamente, una parte del gen** del nuevo individuo.
 Estos algoritmos se pueden utilizar para **resolver problemas de optimización**, incluidos los problemas en los que la función objetivo es discontinua, no diferenciable, estocástica o altamente no lineal, problemas que normalmente no son fáciles de resolver con la optimización estándar
-
+___
 # Neural Networks
 
 Las **redes neuronales** nos ayudan a resolver diversos problemas. Sin embargo, tienen un límite: **los hiperparámetros**. Los hiperparámetros son variablees que determinan la estructura de una red y las variables que determinan cómo debe ser entrenada. Las redes neuronales ntradicinales no pueden hacer el cálculo de los hiperparámetros, pero se pueden **utilizar los algoritmos genéticos para conocer los hiperparámetros para una red neuronal**
